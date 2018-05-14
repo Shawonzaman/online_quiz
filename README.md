@@ -1,7 +1,7 @@
 Online_Quiz
 
 Technology used:
-Object oriented PHP, HTML,CSS,Bootstrap,JavaScript.
+Object oriented PHP, HTML,CSS,Bootstrap,JavaScript,Jquery.
 
 
 
